@@ -1,6 +1,8 @@
 # A DataFrame in JavaScript
 
-This post describes an example implementation of a pandas style DataFrame as a "proof of concept".
+This post describes an example implementation of a pandas style DataFrame. See
+[here](https://github.com/rob-blackbourn/example-js-dataframe) for the source
+code.
 
 The goal is to be able to do the following.
 
